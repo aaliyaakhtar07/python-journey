@@ -6,10 +6,4 @@
 ## 🎯 Repository Objectives
 * **Master Syntax & Structure:** Building an intuitive understanding of loops, conditional branches, and data structures.
 * **Algorithmic Thinking:** Transitioning from "writing code" to "solving logical puzzles efficiently."
-* **Production Habits:** Practicing meaningful commit messages, PEP 8 formatting style, and clean documentation from Day 1.
----
-## 📅 Daily Learning Log & Progress
-
-|    Day    |      Topic / Core Concept        | Key Scripts / Challenges Solved | Status |
-| :---      | :---                             | :---                            | :---   |
-| **Day 1** | Variables, Inputs & Type Casting | *Coming Soon*                   | ⏳ Planned |
+* **Production Habits:** Practicing meaningful commit messages, PEP 8 formatting style.
