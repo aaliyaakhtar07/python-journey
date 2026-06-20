@@ -7,3 +7,4 @@
 * **Master Syntax & Structure:** Building an intuitive understanding of loops, conditional branches, and data structures.
 * **Algorithmic Thinking:** Transitioning from "writing code" to "solving logical puzzles efficiently."
 * **Production Habits:** Practicing meaningful commit messages, PEP 8 formatting style.
+
