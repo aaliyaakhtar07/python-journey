@@ -8,3 +8,11 @@ print('H' in s1) #membership operaator
 print("Concatenated String:", s3)
 print("Repeated String:", s4)
 print("First Character:", s5)
+print("Sliced String:", s6)
+s="   Hello World   "
+print("String with leading/trailing whitespace:", s)    
+print(s.strip())  #Removing leading/trailing whitespace
+print(s.lstrip())  #Removing leading whitespace
+print(s.rstrip())  #Removing trailing whitespace
+print(s1.upper())  #Converting to uppercase
+print(s1.lower())  #Converting to lowercase
