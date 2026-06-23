@@ -16,3 +16,10 @@ print(s.lstrip())  #Removing leading whitespace
 print(s.rstrip())  #Removing trailing whitespace
 print(s1.upper())  #Converting to uppercase
 print(s1.lower())  #Converting to lowercase
+t="Hello!$I$am$Aaliya"
+print(t.split('$'))  #Splitting the string by '$'
+print(t.rsplit('$'))  #Splitting the string from the right by '$'
+l=['H','e','l','l','o']
+print(''.join(l))  #Joining the list elements into a string
+a="I love to eat mangoes"
+print(a.replace(" ", "_"))  #Replacing spaces with underscores
