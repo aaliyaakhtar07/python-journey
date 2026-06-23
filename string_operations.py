@@ -23,3 +23,14 @@ l=['H','e','l','l','o']
 print(''.join(l))  #Joining the list elements into a string
 a="I love to eat mangoes"
 print(a.replace(" ", "_"))  #Replacing spaces with underscores
+print(a.capitalize())  #Capitalizing the first letter of the string
+print(a.isupper())  #Checking if the string is in uppercase
+print(a.islower())  #Checking if the string is in lowercase
+print(a.isalnum())  #Checking if the string is alphanumeric
+print(a.isalpha())  #Checking if the string contains only alphabetic characters
+print(a.isnumeric())  #Checking if the string contains only numeric characters
+print(a.count("o"))  #Counting the occurrences of 'o' in the string
+print(a.find("mangoes"))  #Finding the index of the first occurrence of 'mangoes'
+print(a.rfind('o'))  #Finding the index of the last occurrence of 'o'   
+print(a.index("eat"))  #Finding the index of the first occurrence of 'eat'
+print(a.rindex("o"))  #Finding the index of the last occurrence of 'o'
