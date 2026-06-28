@@ -27,3 +27,7 @@ a<<=1  # a is left shifted by 1, equivalent to a = a << 1
 print("Value of a:", a)  # Output: Value of a: 4
 a>>=1  # a is right shifted by 1, equivalent to a = a >> 1
 print("Value of a:", a)  # Output: Value of a: 2
+#Membership opertors are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary). The two membership operators in Python are in and not in.
+list1 = [1, 2, 3, 4, 5]
+print(3 in list1)  # Output: True
+print(6 not in list1)  # Output: True
