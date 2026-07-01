@@ -14,9 +14,7 @@ f = c % 10
 print(f"a = {a}, b = {b}, c = {c}, d = {d}, e = {e}, f = {f}")  
 
 '''Write a code that initializes three variables, x, y and z with the values 15, 4, and 23 (respectively).
-
 After that, initialize the following variables:
-
 w that will hold the remainder of x divided by y  
 v that will hold the remainder of z divided by x
 u that will hold the remainder of z divided by y
