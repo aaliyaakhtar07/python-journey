@@ -47,10 +47,11 @@
 
 num = int(input("Enter a number:"))
 for i in range(1, num+1):
-    for star in range(1, i+1):
-        print("*", end= "")
-    for space in range(1, 2*(num-1)+1):
-        print(" ", end="")
-    for star in range(1, i+1):
-        print("*", end="")
-    print()
+    star = "*"*i
+    space = " "*(2*(num-i))
+    print(star+space+star)
+for j in range(num-1, 0, -1):
+    star = "*"*j
+    space = " "*(2*(num-j))
+    print(star+space+star)
+
