@@ -12,4 +12,4 @@ print(rohan.name)
 print(rohan.salary)
 print(rohan.language)
 
-#Here name is object attribute and salary and language are class attributes.
+#Here name is object attribute and salary and language are class attributes as they directly belong to the class.
